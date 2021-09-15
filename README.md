@@ -1,2 +1,5 @@
-# Mr.Music
-Code of my music bot
+Mr.Music
+
+This is my Music Bot.
+
+Invite: https:/dsc.gg/mrmusic
